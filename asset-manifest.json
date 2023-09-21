@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/UmerYasir718/react-app/static/css/main.835b4390.css",
-    "main.js": "/UmerYasir718/react-app/static/js/main.02057df4.js",
-    "static/js/787.7b5a45f4.chunk.js": "/UmerYasir718/react-app/static/js/787.7b5a45f4.chunk.js",
-    "index.html": "/UmerYasir718/react-app/index.html",
-    "main.835b4390.css.map": "/UmerYasir718/react-app/static/css/main.835b4390.css.map",
-    "main.02057df4.js.map": "/UmerYasir718/react-app/static/js/main.02057df4.js.map",
-    "787.7b5a45f4.chunk.js.map": "/UmerYasir718/react-app/static/js/787.7b5a45f4.chunk.js.map"
+    "main.css": "/umeryasir718/react-app/static/css/main.835b4390.css",
+    "main.js": "/umeryasir718/react-app/static/js/main.5ba2a9c6.js",
+    "static/js/787.7b5a45f4.chunk.js": "/umeryasir718/react-app/static/js/787.7b5a45f4.chunk.js",
+    "index.html": "/umeryasir718/react-app/index.html",
+    "main.835b4390.css.map": "/umeryasir718/react-app/static/css/main.835b4390.css.map",
+    "main.5ba2a9c6.js.map": "/umeryasir718/react-app/static/js/main.5ba2a9c6.js.map",
+    "787.7b5a45f4.chunk.js.map": "/umeryasir718/react-app/static/js/787.7b5a45f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.835b4390.css",
-    "static/js/main.02057df4.js"
+    "static/js/main.5ba2a9c6.js"
   ]
 }
